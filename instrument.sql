@@ -18,7 +18,7 @@ insert into instrument (id, instrument_type, is_available, brand, starts_rented_
 insert into instrument (id, instrument_type, is_available, brand, starts_rented_time, ends_rented_time, student_id, rent_price) values (7, 'flute', 'true', 'shure', '2022-11-29', '2022/12/09', 28, 50;
 insert into instrument (id, instrument_type, is_available, brand, starts_rented_time, ends_rented_time, student_id, rent_price) values (8, 'piano', 'false', 'shure', '2022-04-18', '2023/01/24', 33, 100);
 insert into instrument (id, instrument_type, is_available, brand, starts_rented_time, ends_rented_time, student_id, rent_price) values (9, 'piano', 'false', 'gibson', '2022-03-25', '2022/12/24', 36,100);
-insert into instrument (id, instrument_type, is_available, brand, starts_rented_time, ends_rented_time, student_id, rent_price) values (10, 'guitar', 'true', 'gibson', '2022-07-10', '2023/08/06', 2, 64, 85);
+insert into instrument (id, instrument_type, is_available, brand, starts_rented_time, ends_rented_time, student_id, rent_price) values (10, 'guitar', 'true', 'gibson', '2022-07-10', '2023/08/06', 5, 85);
 insert into instrument (id, instrument_type, is_available, brand, starts_rented_time, ends_rented_time, student_id, rent_price) values (11, 'violin', 'true', 'shure', '2022-07-20', '2023/09/05', 40, 75);
 insert into instrument (id, instrument_type, is_available, brand, starts_rented_time, ends_rented_time, student_id, rent_price) values (12, 'violin', 'true', 'steinwey', '2022-07-05', '2023/06/06', 4, 75);
 insert into instrument (id, instrument_type, is_available, brand, starts_rented_time, ends_rented_time, student_id, rent_price) values (13, 'guitar', 'false', 'gibson', '2022-08-04', '2023/03/08', 36, 85);
